@@ -1,5 +1,5 @@
 response = chatgpt.generate(prompt)
-response = chatgpt.truncate(response, <200)
+response = chatgpt.truncate(response, <399)
 
 tu répondras en francais.
 
